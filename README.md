@@ -4,15 +4,15 @@
 I am passionate about programming and technology. My goal is to create innovative solutions and continuously learn. I am open to collaboration and interesting projects.
 
 ## Skills
-- Programming Languages: JavaScript, C++, Python, Web, ...
+- Programming Languages: C++, Python, JavaScript, Web, ...
 - Frameworks: Node.js, ...
-- Development Tools: Git, Visual Studio Code, Standard.js, ...
-- Other Skills: Web Development, ...
+- Development Tools: Zed, Git, VS Code, Standard.js, ...
+- Other Skills: Electronic
 
 ## Projects
 Here are some of my GitHub projects:
 
-- [Google Home Troll](https://github.com/Zarox28/google_home_troll) : Google Assistant application that allows you to troll your friends by controlling their Google Home devices
+- [SecureMac](https://github.com/Zarox28/SecureMac) : Simple program that locks the macos screen & start recording
 - [RFan](https://github.com/Zarox28/rfan) : Simple Arduino project that uses a infrared sensor to remotely control a fan
 - [SAE](https://github.com/dev-du-bled/games-sae1) : First development project from the University Institute of Technology of Nevers
 
