@@ -13,9 +13,9 @@
 ```swift
 struct Zarox28 {
 	let pronouns: String = "He/Him"
-    let code: Array<String> = ["Swift", "Python", "C++", "C", "Arduino", "JavaScript", "HTML", "CSS", "Zig"]
-    let tools: Array<String> = ["Docker", "Git", "NodeJS", "Databases"]
-    let otherSkills: Array<String> = ["Electronic", "CAO conception", "3D Printing"]
+  let code: Array<String> = ["Swift", "Python", "C++", "C", "Arduino", "JavaScript", "HTML", "CSS", "Zig"]
+  let tools: Array<String> = ["Docker", "Git", "NodeJS", "Databases"]
+  let otherSkills: Array<String> = ["Electronic", "CAO conception", "3D Printing"]
 }
 
 let profile = Zarox28()
