@@ -15,10 +15,18 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zarox28&repo=safelock&description_lines_count=2&theme=holi&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zarox28&repo=adbenq&description_lines_count=2&theme=holi&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zarox28&repo=activate&description_lines_count=2&theme=holi&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zarox28&repo=arduideck&description_lines_count=2&theme=holi&hide_border=true" />
+  <a href="https://github.com/zarox28/safelock">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zarox28&repo=safelock&description_lines_count=2&theme=holi&hide_border=true" />
+  </a>
+  <a href="https://github.com/zarox28/adbenq">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zarox28&repo=adbenq&description_lines_count=2&theme=holi&hide_border=true" />
+  </a>
+  <a href="https://github.com/zarox28/activate">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zarox28&repo=activate&description_lines_count=2&theme=holi&hide_border=true" />
+  </a>
+  <a href="https://github.com/zarox28/arduideck">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zarox28&repo=arduideck&description_lines_count=2&theme=holi&hide_border=true" />
+  </a>
 </div>
 
 <div align="center">
