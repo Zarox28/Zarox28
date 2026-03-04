@@ -6,39 +6,14 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,py,qt,bun,arduino,swift,c,cpp,discordjs,fastapi,docker,js,md,postgres,raspberrypi&perline=5" />
+    <img src="https://skillicons.dev/icons?i=go,py,docker,qt,bun,arduino,swift,c,cpp,discordjs,fastapi,js,md,postgres,raspberrypi&perline=5" />
   </a>
 </p>
 
----
-
-<div align="center">
-  <a href="https://github.com/zarox28/safelock">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zarox28&repo=safelock&description_lines_count=2&theme=holi&hide_border=true" />
-  </a>
-  <a href="https://github.com/zarox28/adbenq">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zarox28&repo=adbenq&description_lines_count=2&theme=holi&hide_border=true" />
-  </a>
-  <a href="https://github.com/zarox28/activate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zarox28&repo=activate&description_lines_count=2&theme=holi&hide_border=true" />
-  </a>
-  <a href="https://github.com/zarox28/arduideck">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zarox28&repo=arduideck&description_lines_count=2&theme=holi&hide_border=true" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zarox28&show_icons=true&rank_icon=github&theme=holi&hide_border=true">
-</div>
-
----
+<br />
 
 <p align="center">
   🚀 Feel free to explore my repositories to discover interesting projects!
-</p>
-
-<p align="center">
-  🙏 Thank you for visiting my GitHub profile !
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=748cab&section=footer" alt="footer"/>
