@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,py,docker,qt,bun,arduino,swift,c,cpp,discordjs,fastapi,js,md,postgres,raspberrypi&perline=5" />
+    <img src="https://skillicons.dev/icons?i=docker,cloudflare,go,python,c,swift,markdown,arduino,raspberrypi,svelte,fastapi,bun,discordjs,sqlite,postgresql&perline=5" />
   </a>
 </p>
 
