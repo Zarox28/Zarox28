@@ -13,6 +13,9 @@
 <br />
 
 <p align="center">
+  📦 Check out my main projects at <a href="https://github.com/Zarox28-Projects">Zarox28-Projects</a>
+</p>
+<p align="center">
   🚀 Feel free to explore my repositories to discover interesting projects!
 </p>
 
